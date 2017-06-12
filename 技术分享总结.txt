@@ -1,0 +1,12 @@
+一.android
+
+
+二.后台
+
+
+
+三.前端
+   1. ionic+angularJs开发app
+      
+   2. angularJs+weUi开发微信
+   3. angularJs+Bootstrap+ECharts
