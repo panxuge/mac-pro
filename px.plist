@@ -1,32 +1,31 @@
-<span style="color:#555555;"><?xml version="1.0" encoding="UTF-8"?>  
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
-<plist version="1.0">
-<dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>https://github.com/panxuge/mac-pro/raw/master/crland.ipa</string> </span><span style="font-family: 宋体;"><span style="color:#ff6666;"><!--需修改 --></span></span><span style="color:#555555;">
-</dict>
-</array>
-<key>metadata</key>
-<dict>
-<key>bundle-identifier</key>
-<string>cn.com.crland.yanfang.dev</string>     </span><span style="color:#ff0000;"> <span style="font-family: 宋体;"><!--需修改 --></span></span><span style="color:#555555;">
-<key>bundle-version</key>
-<string>1.0.6</string>
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>测试</string>
-</dict>
-</dict>
-</array>
-</dict>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"> 
+<dict> 
+	<key>items</key>
+	<array> 
+		<dict> 
+			<key>assets</key>
+			<array>
+		 		<dict> 
+					<key>kind</key>
+					<string>software-package</string> 
+					<key>url</key> 
+					<string>https://github.com/panxuge/mac-pro/raw/master/crland.ipa</string> 
+				</dict> 
+			</array> 
+			<key>metadata</key> 
+			<dict> 
+				<key>bundle-identifier</key> 
+				<string>cn.com.crland.yanfang.dev</string> 
+				<key>bundle-version</key> 
+				<string>1.0.6</string> 
+				<key>kind</key> 
+				<string>software</string> 
+				<key>title</key> 
+				<string>工程云dev</string>
+			</dict> 
+		</dict> 
+	</array> 
+</dict> 
 </plist>
-</span>
